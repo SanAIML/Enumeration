@@ -55,18 +55,18 @@ Open terminal and try execute some kali linux commands
 
 # DNS Enumeration
 ## DNS Recon
-![image](https://github.com/user-attachments/assets/92ca26e1-3a33-4e3c-89c0-916101acfee9)
+<img width="777" height="140" alt="Screenshot 2025-10-03 140509" src="https://github.com/user-attachments/assets/d8b6c892-a8fa-48b7-8795-422707f9bc97" />
+
 
 
 ## dnsenum
-![image](https://github.com/user-attachments/assets/7585a441-b8f4-40e5-9775-065e4f803579)
+<img width="1231" height="859" alt="Screenshot 2025-10-03 140559" src="https://github.com/user-attachments/assets/4e47eec8-2bbb-4813-a13a-e205a96ac512" />
+
 
 ## smtp-user-enum:
 ![image](https://github.com/user-attachments/assets/e5dd0d71-bb6a-4c47-8ae2-fcc442266c8c)
 
-## nmap –script smtp-enum-users.nse <hostname>
 
-![image](https://github.com/user-attachments/assets/69f4fe9a-79a9-4ab6-a50b-8d27e9988a43)
 
 
 
